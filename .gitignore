@@ -1,5 +1,6 @@
 # Env
 sign_language_env/
+.ipynb_checkpoints
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
